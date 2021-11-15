@@ -53,15 +53,6 @@ def code_word_distance(word1,word2):
 
 
 
-
-
-
-
-    
-    
-
-
-
 class Hamming_743(object):
     '''
     To model the binary symmetric channel I will use the function choices from random module
@@ -203,7 +194,6 @@ class Hamming_743(object):
             i = (i + 1) % NUM_OF_CODEWORDS
         return count / LEN
     
-
 
 
 
