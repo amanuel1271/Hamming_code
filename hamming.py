@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from random import randint,choices ##### choices is a function available from python 3.6 onwards
 
 
-PARITY_CHECK_M = [[0,0,1],[0,1,0],[0,1,1],[1,0,0],[1,0,1],[1,1,0],[1,1,1]]
+
 LEN = 10000
 NUM_OF_CODEWORDS = 16
 NUM_OF_MESSAGE_BITS = 4
